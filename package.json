@@ -1,0 +1,19 @@
+{
+    "name": "crud-usuarios-vue",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "dev": "vite --port 3000",
+        "build": "vite build",
+        "preview": "vite preview"
+    },
+    "dependencies": {
+        "bootstrap": "^5.3.7",
+        "vue": "^3.3.0"
+    },
+    "devDependencies": {
+        "@vitejs/plugin-vue": "^4.6.2",
+        "vite": "^4.0.0"
+    }
+}
